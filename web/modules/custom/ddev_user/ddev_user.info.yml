@@ -1,0 +1,7 @@
+name: 'ddev user'
+type: module
+description: 'Example code for entity user'
+package: DCS2025
+core_version_requirement: ^10 || ^11
+dependencies:
+  - drupal:user
